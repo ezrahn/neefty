@@ -22,7 +22,7 @@ production:
   adapter: mysql2
   database: neefty
   encoding: utf8
-  user: dbadmin
+  username: dbadmin
   password: t0nKS
   host: 127.0.0.1
   port: 3306
