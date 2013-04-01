@@ -1,4 +1,13 @@
 Neefty::Application.routes.draw do
+  resources :dimensions
+
+
+  resources :users
+
+
+  resources :tasks
+
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
